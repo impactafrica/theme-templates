@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Dec 2020 23:04:04 at https://demo.neontheme.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.neontheme.com/ -O1 "C:\Users\Bochie\Documents\HTTRACK Websites\Neon Admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:07:49	Error: 	"Not Found" (404) at link https://demo.neontheme.com/dashboard/main/?rtl (from https://demo.neontheme.com/dashboard/highlights/)
+23:07:52	Error: 	"Not Found" (404) at link https://demo.neontheme.com/assets/frontend/images/favicon.ico (from https://demo.neontheme.com/frontend/main/)
+23:08:26	Error: 	"Not Found" (404) at link https://demo.neontheme.com/frontend/main/?2 (from https://demo.neontheme.com/frontend/main/)
+23:08:34	Error: 	"Not Found" (404) at link https://demo.neontheme.com/forms/advanced/{{img}} (from https://demo.neontheme.com/forms/advanced/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 16 seconds : 549 links scanned, 544 files written (28830315 bytes overall) [24997213 bytes received at 79105 bytes/sec], 4947723 bytes transferred using HTTP compression in 124 files, ratio 18%, 9.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
